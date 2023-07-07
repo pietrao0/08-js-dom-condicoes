@@ -39,7 +39,7 @@ function verificar() {
             
             if(idade >= 0 && idade < 12){
                 // Criança
-                img.setAttribute('src','../img/criançaF.jpeg')
+                img.setAttribute('src','../img/criançaF.jpg')
 
             } else if (idade < 21){
                 // Jovem 
